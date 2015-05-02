@@ -1,0 +1,31 @@
+{
+  "name": "te123",
+  "version": "1.0.0",
+  "description": "Underscores theme built with sass, compass, susy, breakpoint and gulp",
+  "main": "index.php",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dollardad/te123.git"
+  },
+  "keywords": [
+    "Sass",
+    "Compass",
+    "Susy",
+    "Breakpoint",
+    "Gulp"
+  ],
+  "author": "Kevin Phillips",
+  "license": "GPL2",
+  "bugs": {
+    "url": "https://github.com/dollardad/te123/issues"
+  },
+  "homepage": "https://github.com/dollardad/te123",
+  "devDependencies": {
+    "breakpoint": "^0.1.6",
+    "compass": "^0.1.1",
+    "gulp": "^3.8.11",
+    "gulp-compass": "^2.0.4",
+    "gulp-util": "^3.0.4",
+    "susy": "^2.2.3"
+  }
+}
